@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - hello!!!!!!!!!!!!!!!!!!!!!!
 - Hi！！！！！！！
+- wow!
 
 <!---
 kanpo-hontoni/kanpo-hontoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
